@@ -1,2 +1,1 @@
-# zeroner
-Old Version of Zeroner for iWown i7
+# Old Version of Zeroner APK for android working with iWown i7 watch
